@@ -1,0 +1,549 @@
+{
+    "100": {
+        "category": "Any Classification",
+        "subcategory": {
+        }
+    },
+    "0": {
+        "category": "Accounting",
+        "subcategory": {
+            "0": "Accounts Officers/Clerks",
+            "1": "Accounts Payable",
+            "2": "Accounts Receivable / Credit Control",
+            "3": "Analysis & Reporting",
+            "4": "Assistant Accountants",
+            "5": "Audit - External",
+            "6": "Audit - Internal",
+            "7": "Bookkeeping & Small Practice Accounting",
+            "8": "Business Services & Corporate Advisory",
+            "9": "Company Secretaries",
+            "10": "Compliance & Risk",
+            "11": "Cost Accounting",
+            "12": "Financial Accounting & Reporting",
+            "13": "Financila Managers & Controllers",
+            "14": "Forensic Accounting & Investication",
+            "15": "Insolvency & Corporate Recovery",
+            "16": "Inventory & Fixed Assets",
+            "17": "Management",
+            "18": "Managment Accounting & Budgeting",
+            "19": "Payroll",
+            "20": "Strategy & Planning",
+            "21": "Taxation",
+            "22": "Treasury",
+            "23": "Other "
+        }
+    },
+    "1": {
+        "category": "Administration & Office Support",
+        "subcategory": {
+            "0": "Administrative Assistance",
+            "1": "Client & Sales Administration",
+            "2": "Contracts Administration",
+            "3": "Data Entry & Word Processing",
+            "4": "Office Management",
+            "5": "PA, EA & Secretarial",
+            "6": "Receptionists",
+            "7": "Records Management & Document Control",
+            "23": "Other"
+        }
+    },
+    "2": {
+        "category": "Advertising, Arts & Media",
+        "subcategory": {
+            "0": "Agency Account Management",
+            "1": "Art Direction",
+            "2": "Editing & Publishing",
+            "3": "Event Management",
+            "4": "Journalism & Writing",
+            "5": "Management",
+            "6": "Media Strategy, Planning & Buying",
+            "7": "Photography",
+            "8": "Programming & Production",
+            "9": "Promotions",
+            "10": "Other"
+        }
+    },
+    "3": {
+        "category": "Banking & Financial Services",
+        "subcategory": {
+            "0": "Account & Relationship Management",
+            "1": "Analysis & Reporting",
+            "2": "Banking - Business",
+            "3": "Banking - Corporate & Institutional",
+            "4": "Banking - Retail/Brance",
+            "5": "Client Services",
+            "6": "Compliance & Risk",
+            "7": "Corporate Finance & Investment Banking",
+            "8": "Credit",
+            "9": "Financial Planning",
+            "10": "Funds Management",
+            "11": "Managment",
+            "12": "Mortgages",
+            "13": "Settlements",
+            "14": "Stockbroking & Trading",
+            "15": "Trasury ",
+            "16": "Other"
+        }
+    },
+    "4": {
+        "category": "Call Center & Customer Service",
+        "subcategory": {
+            "0": "Collections",
+            "1": "Customer Service - Call Center",
+            "2": "Customer Service - Customer Facing",
+            "3": "Management & Support",
+            "4": "Sales - Inbound",
+            "5": "Sales - Outbound",
+            "6": "Supervisors/Team Leaders",
+            "7": "Other"
+        }
+    },
+    "5": {
+        "category": "CEO & General Management",
+        "subcategory": {
+            "0": "Board Appointment",
+            "1": "CEO",
+            "2": "COO & MD",
+            "3": "General/Business Unit Manager",
+            "4": "Other"
+        }
+    },
+    "6": {
+        "category": "Community Services & Development",
+        "subcategory": {
+            "0": "Aged & Disablity Support",
+            "1": "Child Welfate, Youth & Family Services",
+            "2": "Community Development",
+            "3": "Employment Services",
+            "4": "Fundraising",
+            "5": "Housing & Homelessness Services",
+            "6": "Indigenoud & Multicultural",
+            "7": "Management",
+            "8": "Volunteer Coordination & Support",
+            "9": "other"
+        }
+    },
+    "7": {
+        "category": "Construction",
+        "subcategory": {
+            "0": "Contracts Management",
+            "1": "Estimating",
+            "2": "Foreperson/Supervisors",
+            "3": "Health, Safety & Environment",
+            "4": "Management",
+            "5": "Planning & Scheduling",
+            "6": "Plant & Machinery Operators",
+            "7": "Project Management",
+            "8": "Quality Assurance & Control",
+            "9": "Surveying",
+            "10": "Other"
+        }
+    },
+    "8": {
+        "category": "Consulting & Strategy",
+        "subcategory": {
+            "0": "Analysts",
+            "1": "Corporate Development",
+            "2": "Environment & Sustainablity Consulting",
+            "3": "Management & Change Consulting",
+            "4": "Policy",
+            "5": "Strategy & Planning",
+            "6": "Other"
+        }
+    },
+    "9": {
+        "category": "Design & Architecture",
+        "subcategory": {
+            "0": "Architectural Drafting",
+            "1": "Architecture",
+            "2": "Fashion & Textile Design",
+            "3": "Graphic Design",
+            "4": "Illustration & Animation",
+            "5": "Industrial Design",
+            "6": "Landscape Architecture",
+            "7": "Urban Design & Planning",
+            "8": "Web & Interaction Design",
+            "9": "Other"
+        }
+    },
+    "10": {
+        "category": "Education & Training",
+        "subcategory": {
+            "0": "Childcare & Outside School Hours Care",
+            "1": "Library Services & Information Management",
+            "2": "Management - Schools",
+            "3": "Management - Universities",
+            "4": "Management - Vocational",
+            "5": "Research & Fellowships",
+            "6": "Student Services",
+            "7": "Teaching - Early Chilhood",
+            "8": "Teaching - Primary",
+            "9": "Teaching - Secondary",
+            "10": "Teaching - Tertiary",
+            "11": "Teaching - Vocational",
+            "12": "Teaching Aides & Special Needs",
+            "13": "Tutoring",
+            "14": "Workplace Training & Assessment ",
+            "15": "Other"
+        }
+    },
+    "11": {
+        "category": "Engineering",
+        "subcategory": {
+            "0": "Aerospace Engineering",
+            "1": "Automotive Engineering",
+            "2": "Building Services Engineering",
+            "3": "Chemical Engineering",
+            "4": "Civil/Structural Engineering",
+            "5": "Electrical/Electronic Engineering",
+            "6": "Engineering Drafting",
+            "7": "Environmental Engineering",
+            "8": "Field Engineering",
+            "9": "Industrial Engineering",
+            "10": "Maintenance",
+            "11": "Management",
+            "12": "Materials Handling Engineering",
+            "13": "Mechanical Engineering",
+            "14": "Process Engineering",
+            "15": "Project Engineering",
+            "16": "Project Management",
+            "17": "Supervisors",
+            "18": "Systems Engineering",
+            "19": "Water & Waste Engineering",
+            "20": "Other"
+        }
+    },
+    "12": {
+        "category": "Farming, Animals & Conservation",
+        "subcategory": {
+            "0": "Agronomy & Farm Services",
+            "1": "Conservation, Parks & Wildlife",
+            "2": "Farm Labour",
+            "3": "Farm Management",
+            "4": "Fishing & Aquaculture",
+            "5": "Horticulture",
+            "6": "Veterinary Services & Animal Welfare",
+            "7": "Winery & Verticulture",
+            "8": "Other"
+        }
+    },
+    "13": {
+        "category": "Government & Defence",
+        "subcategory": {
+            "0": "Air Force",
+            "1": "Army",
+            "2": "Emergency Services",
+            "3": "Navy",
+            "4": "Police & Corrections",
+            "5": "Policy, Planning & Regulation",
+            "6": "Government",
+            "7": "Local Governemnt",
+            "8": "Regioanl Council",
+            "9": "Other"
+        }
+    },
+    "14": {
+        "category": "Healthcare & Tourism",
+        "subcategory": {
+            "0": "Ambulance/Paramedics",
+            "1": "Chiropratic & Osteopathic",
+            "2": "Clinical/Medical Research",
+            "3": "Dental",
+            "4": "Dieticians",
+            "5": "Environmental Services",
+            "6": "General Practitioners",
+            "7": "Management",
+            "8": "Medical Administration",
+            "9": "Medical Imaging",
+            "10": "Medical Specialists",
+            "11": "Natural Therapies & Alternative Medicine",
+            "12": "Nursing - A&E, Crictical Care & ICU",
+            "13": "Nursing - Aged Care",
+            "14": "Nursing - Community, Maternal & Child Health",
+            "15": "Nursing - Educators & Facilitators",
+            "16": "Nursing - General Medical & Surgical",
+            "17": "Nursing - High Acuity",
+            "18": "Nusing - Management",
+            "19": "Nursing - Midwifery, Neo-Nata, SCN & NICU",
+            "20": "Nursing - Paediatric & PICU",
+            "21": "Nursing - Psych, Forensic & Correctional Health",
+            "22": "Nursing - Theatre & Recovery",
+            "23": "Optical",
+            "24": "Pathology",
+            "25": "Pharmaceuticals & Medical Devices",
+            "26": "Pharmacy",
+            "27": "Physiotherapy, OT & Rehabilitation",
+            "28": "Psychology, Counselling & Social Work",
+            "29": "Resident & Registrars",
+            "30": "Sales",
+            "31": "Speech Therapy",
+            "32": "Other"
+        }
+    },
+    "15": {
+        "category": "Hospitality & Tourism",
+        "subcategory": {
+            "0": "Airlines",
+            "1": "Bar & Beverage Staff",
+            "2": "Chefs/Cooks",
+            "3": "Front Office & Guest Services",
+            "4": "Gaming",
+            "5": "Housekeeping",
+            "6": "Kitchen & Sandwich Hands",
+            "7": "Management",
+            "8": "Reservations",
+            "9": "Tour Guides",
+            "10": "Travel Agents/Consultants",
+            "11": "Waiting Staff",
+            "12": "Other"
+        }
+    },
+    "16": {
+        "category": "Human Resources & Recruitment",
+        "subcategory": {
+            "0": "Consulting & Generalist HR",
+            "1": "Industrial & Employee Relations",
+            "2": "Managenent- Agency",
+            "3": "Management - Internal",
+            "4": "Occupational Health & Safety",
+            "5": "Organisational Development",
+            "6": "Recruitment Agency",
+            "7": "Remuneration & Benefits",
+            "8": "Training & Development",
+            "9": "Other"
+        }
+    },
+    "17": {
+        "category": "Information & Communication Technology",
+        "subcategory": {
+            "0": "Architects",
+            "1": "Business/System Analysts",
+            "2": "Computer Operators",
+            "3": "Consultants",
+            "4": "Database Development & Administration",
+            "5": "Developers/Programmers",
+            "6": "Engineering - Hardware",
+            "7": "Engineering - Network",
+            "8": "Engineering - Software",
+            "9": "Help Desk & IT Support",
+            "10": "Management",
+            "11": "Networks & System Administration",
+            "12": "Product Management & Development",
+            "13": "Programme & Project Management",
+            "14": "Sales - Pre & Post",
+            "15": "Security",
+            "16": "Team Leaders",
+            "17": "Technical Leaders",
+            "18": "Technical Writing",
+            "19": "Telecommunicaitons",
+            "20": "Testing & Quality Assurance",
+            "21": "Web Development & Production",
+            "22": "Other"
+        }
+    },
+    "18": {
+        "category": "Insurance & Superannuation",
+        "subcategory": {
+            "0": "Actuarial",
+            "1": "Assessment",
+            "2": "Brokerage",
+            "3": "Claims",
+            "4": "Fund Administration",
+            "5": "Management",
+            "6": "Risk Consulting",
+            "7": "Superannuation",
+            "8": "Underwriting",
+            "9": "Workers' Compensation",
+            "10": "Other"
+        }
+    },
+    "19": {
+        "category": "Legal",
+        "subcategory": {
+            "0": "Banking & Finance Law",
+            "1": "Construction Law",
+            "2": "Corporate & Commercial Law",
+            "3": "Criminal & Civil Law",
+            "4": "Environment & Planning Law",
+            "5": "Family Law",
+            "6": "Generalists - Inhouse",
+            "7": "Generalists - Law Firm",
+            "8": "Industrial Relations & Employment Law",
+            "9": "Insurance & Supperannuation Law",
+            "10": "Intellectual Property Law",
+            "11": "Law Clerks & Paralegals",
+            "12": "Legal Practice Management",
+            "13": "Legal Secretaries",
+            "14": "Litigation & Dispute Resolution",
+            "15": "Personal Injury Law",
+            "16": "Property Law",
+            "17": "Tax Law",
+            "18": "Other"
+        }
+    },
+    "20": {
+        "category": "Manufacturing, Transport & Logistics",
+        "subcategory": {
+            "0": "Analysis & Reporting",
+            "1": "Assembly & Process Work",
+            "2": "Aviation Services",
+            "3": "Couriers, Drivers & Postal Services",
+            "4": "Fleet Management",
+            "5": "Freight/Cargo Forwarding",
+            "6": "Import/Export & Customs",
+            "7": "Machine Operators",
+            "8": "Management",
+            "9": "Pattern Makers & Garment Technicians",
+            "10": "Pickers & Packers",
+            "11": "Production, Planning & Scheduling",
+            "12": "Public Transport & Taxi Services",
+            "13": "Purchasing, Procurement & Inventory",
+            "14": "Quality Assurance & Control",
+            "15": "Rail & Maritime Transport",
+            "16": "Road Transport",
+            "17": "Team Leaders/Supervisors",
+            "18": "Warehousing, Storage & Distribution",
+            "19": "Other"
+        }
+    },
+    "21": {
+        "category": "Marketing & Communications",
+        "subcategory": {
+            "0": "Brand Management",
+            "1": "Digital & Search Marketing",
+            "2": "Direct Marketing & CRM",
+            "3": "Event Management",
+            "4": "Interanl Communications",
+            "5": "Management",
+            "6": "Market research & Analysis",
+            "7": "Marketing Assistants/Coordinators",
+            "8": "Marketing Communications",
+            "9": "Product Management & Development",
+            "10": "Trade Marketing",
+            "11": "Public Relations & Corporate Affairs",
+            "12": "Other"
+        }
+    },
+    "22": {
+        "category": "Mining, Resources & Energy",
+        "subcategory": {
+            "0": "Analysis & Reporting",
+            "1": "Health, Safety & Environment",
+            "2": "Management",
+            "3": "Mining - Drill & Blast",
+            "4": "Mining - Engineering & Maaintenance",
+            "5": "Mining - Exploration Geoscience",
+            "6": "Mining - Operations",
+            "7": "Mining - Processing",
+            "8": "Natural Resources & Water",
+            "9": "Oil & Gas - Drilling",
+            "10": "Oil & Gas - Engineering & Maintenance",
+            "11": "Oil & Gas - Exploration & Geoscience",
+            "12": "Oil & Gas - Operations",
+            "13": "Oil & Gas - Production & Refinement",
+            "14": "Power Generation & Distribution",
+            "15": "Surveying",
+            "16": "Other"
+        }
+    },
+    "23": {
+        "category": "Real Estate & Property",
+        "subcategory": {
+            "0": "Administration",
+            "1": "Analysts",
+            "2": "Management",
+            "3": "Body Corporate & Facilities Management",
+            "4": "Commercial Sales, Leasing & Property Management",
+            "5": "Residential Leasing & Property Management",
+            "6": "Residential Sales",
+            "7": "Retail &Property Development",
+            "8": "Valuation",
+            "9": "Other"
+        }
+    },
+    "24": {
+        "category": "Retail & Consumer Products",
+        "subcategory": {
+            "0": "Buying",
+            "1": "Management - Area/Multi-site",
+            "2": "Management - Department/Assistant",
+            "3": "Management - Store",
+            "4": "Merchandisers",
+            "5": "Planning",
+            "6": "Retail Assistants",
+            "7": "Other"
+        }
+    },
+    "25": {
+        "category": "Sales",
+        "subcategory": {
+            "0": "Account & Relationship Management",
+            "1": "Analysis & Reporting",
+            "2": "Management",
+            "3": "New Business Developemnt",
+            "4": "Sales Coordinators",
+            "5": "Sales Representatives/Consultants",
+            "7": "Other"
+        }
+    },
+    "26": {
+        "category": "Science & Technology",
+        "subcategory": {
+            "0": "Biological & Biomedical Sciences",
+            "1": "Biotechnology & Genetics",
+            "2": "Chemistry & Physics",
+            "3": "Environmental, Earth & Geosciences",
+            "4": "Food Technology & Safety",
+            "5": "Laboratory & Technical Services",
+            "6": "Material Sciences",
+            "7": "Mathematics, Statistics & Information Sciences",
+            "8": "Modelling & Simulation",
+            "9": "Quality Assurance & Control",
+            "10": "Other"
+        }
+    },
+    "27": {
+        "category": "Self Employment",
+        "subcategory": {
+        }
+    },
+    "28": {
+        "category": "Sport & Recreation",
+        "subcategory": {
+            "0": "Coaching & Instruction",
+            "1": "Fitness & Personal Training",
+            "2": "Management",
+            "3": "Other"
+        }
+    },
+    "29": {
+        "category": "Trades & Services",
+        "subcategory": {
+            "0": "Air Conditioning & Refrigration",
+            "1": "Automotive Trades",
+            "2": "Bakers & Pastry Chefs",
+            "3": "Building Trades",
+            "4": "Butchers",
+            "5": "Carpentry & Cabinet Making",
+            "6": "Cleaning Services",
+            "7": "Electricians",
+            "8": "Fitters, Turners & Machinists",
+            "9": "Floristry",
+            "10": "Gardening & Landscaping",
+            "11": "Hair & Beauty Services",
+            "12": "Labourers",
+            "13": "Locksmiths",
+            "14": "Maintenance & Handyperson Services",
+            "15": "Nannies & Bsbysitters",
+            "16": "Painters & Sign Writers",
+            "17": "Plumbers",
+            "18": "Printing & Publishing Services",
+            "19": "Security Services",
+            "20": "Tailors & Dressmakers",
+            "21": "Technicians",
+            "22": "Welders & Boilermakers",
+            "24": "Other"
+        }
+    }
+    
+}

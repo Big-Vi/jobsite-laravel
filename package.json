@@ -1,0 +1,47 @@
+{
+    "private": true,
+    "scripts": {
+        "prettier": "prettier --write **/*.php",
+        "git": "git add . && git commit -m 'new' && git push && git push production master",
+        "dev": "npm run development",
+        "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "npm run development -- --watch",
+        "watch-poll": "npm run watch -- --watch-poll",
+        "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "npm run production",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "format": "npm run format:prettier && npm run prettier",
+        "format:prettier": "node_modules/.bin/prettier --config .prettierrc \"**/*.{ts,css,less,js}\" --write"
+    },
+    "devDependencies": {
+        "@prettier/plugin-php": "^0.11.2",
+        "axios": "^0.18",
+        "cross-env": "^5.2.0",
+        "jquery": "^3.2",
+        "js-beautify": "^1.10.0",
+        "laravel-echo": "^1.4.0",
+        "laravel-mix": "^4.0.7",
+        "lodash": "^4.17.5",
+        "popper.js": "^1.12",
+        "prettier": "^1.18.2",
+        "pusher-js": "^4.2.2",
+        "resolve-url-loader": "^2.3.1",
+        "sass": "^1.15.2",
+        "sass-loader": "^7.1.0",
+        "vue": "^2.5.17",
+        "vue-loader": "^15.7.0",
+        "vue-router": "^3.0.6",
+        "vue-template-compiler": "^2.6.10",
+        "vuex": "^3.1.0"
+    },
+    "dependencies": {
+        "laravel-vue-pagination": "^2.3.0",
+        "materialize-css": "^1.0.0-rc.2",
+        "moment": "^2.24.0",
+        "veeno": "0.0.4",
+        "vue-loading-spinner": "^1.0.11",
+        "vue-moment": "^4.0.0",
+        "vue-moments-ago": "^0.2.0",
+        "vue-resource": "^1.5.1"
+    }
+}

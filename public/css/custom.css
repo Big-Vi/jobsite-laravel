@@ -1,0 +1,382 @@
+h1,
+h2,
+h3,
+h4,
+p,
+a,
+li,
+span,
+input,
+label,
+select {
+  font-family: 'Domine', serif;
+}
+nav ul li a,
+nav a {
+  color: black !important;
+}
+nav {
+  height: 100px !important;
+  padding: 1em;
+}
+nav .brand-logo {
+  margin-left: 2em;
+}
+nav .nav-wrapper ul {
+  margin-right: 4em;
+}
+nav i.right {
+  margin-left: 0;
+}
+.brand-logo img {
+  width: 200px;
+}
+.hero-img {
+  height: 60vh;
+  position: relative;
+}
+.hero-img::after {
+  content: '';
+  background-image: url(../images/heroimg-2400.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+.jobseeker-hero-img {
+  height: 50vh;
+  position: relative;
+  margin-bottom: 6em;
+}
+.delete-jobalert,
+.delete-role {
+  border: none;
+  background-color: transparent;
+  color: #f9a059;
+  font-weight: 450;
+  padding: 0;
+  text-transform: uppercase;
+}
+.more-search-form {
+  display: none;
+}
+.more-option {
+  cursor: pointer;
+}
+.more-option .fa-chevron-up {
+  display: none;
+}
+.jobseeker-hero-img::after {
+  content: '';
+  background-image: url(../images/jobseeker-heroimg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+.ad {
+  width: 100%;
+  height: auto;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 1.25em;
+  margin: 0 !important;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  z-index: 1;
+}
+#ad_button {
+  background-color: #2f80c2;
+  color: #f8f9fa;
+  text-transform: none !important;
+  border-radius: 25px;
+}
+#ad_button:hover {
+  transition: transform 0.5s ease;
+  transform: skewX(0deg);
+}
+/* label focus color */
+.searchform .input-field input,
+.searchform .input-field select,
+.more-search-form .input-field input,
+.more-search-form .input-field select {
+  border-bottom: 0.1em solid black !important;
+}
+.searchform .input-field select,
+.more-search-form .input-field select {
+  display: inline-block;
+  background-color: transparent;
+  border: none;
+  color: black;
+}
+.searchform .input-field select option,
+.more-search-form .input-field select option {
+  color: black;
+}
+.searchform .input-field select:focus,
+.more-search-form .input-field select:focus {
+  outline: none;
+}
+.searchform .input-field input + label,
+.searchform .input-field select + label,
+.more-search-form .input-field input + label,
+.more-search-form .input-field select + label {
+  color: black !important;
+}
+.searchform .input-field input:focus + label,
+.more-search-form .input-field input:focus + label {
+  color: #ee6e73 !important;
+}
+.searchform .input-field input:focus,
+.more-search-form .input-field input:focus {
+  border-bottom: 1px solid #ee6e73 !important;
+  box-shadow: 0 1px 0 0 #ee6e73 !important;
+}
+.searchbar {
+  top: 30vh;
+  position: absolute;
+  width: 80vw;
+  left: 10vw;
+}
+.user {
+  display: none;
+}
+#prevBtn,
+#nextBtn {
+  padding: 0.5em 0.75em;
+}
+#employer .img {
+  background: url(../images/user-emp.jpg) no-repeat center center/cover;
+  height: 20vw;
+}
+.errors {
+  margin-top: 2em;
+  color: red;
+}
+.editjob-form-employer .tab {
+  display: none;
+}
+.signup{
+  background-color: #2f80c2;
+  margin: 0;
+  padding:2em;
+}
+.signup h3{
+  margin: 0;
+}
+.veeno {
+  margin-top: 30px !important;
+}
+#employer a,
+#jobseeker a {
+  background-color: #2f80c2;
+}
+#jobseeker .img {
+  background: url(../images/user-job.jpg) no-repeat center center/cover;
+  height: 20vw;
+}
+footer {
+  margin-top: 8em;
+}
+.page-footer {
+  background-color: #444 !important;
+}
+.page-footer .footer-copyright {
+  background-color: rgba(51, 51, 51, 0.65) !important;
+}
+.emp-logo {
+  width: 100%;
+  margin-top: 1em;
+}
+.jobs {
+  padding: 1em;
+  border-bottom: 0.005em;
+  background-color: white;
+}
+.jobs:nth-child(odd) {
+  border-left: 0.4em solid black;
+}
+.jobs:nth-child(even) {
+  border-left: 0.4em solid #2f80c2;
+}
+.jobs:last-child {
+  border-bottom: 0.01em;
+}
+nav form {
+  height: 0 !important;
+}
+.noUi-target {
+  background: transparent !important;
+  border-radius: 4px !important;
+  border: 1px solid black !important;
+}
+
+.noUi-horizontal {
+  height: 10px !important;
+  width: 80% !important;
+  margin: 1.75em auto 0 auto !important;
+}
+.veeno-span {
+  top: -1.75rem !important;
+}
+.noUi-horizontal .noUi-handle {
+  width: 24px !important;
+  height: 22px !important;
+  top: -7px !important;
+}
+.noUi-handle {
+  border: none !important;
+  /* border-radius: 3px; */
+  background: #2f80c2 !important;
+  cursor: default;
+  box-shadow: none !important;
+}
+.spinner[data-v-1ae3dd4c] {
+  width: 50px !important;
+  height: 50px !important;
+  margin: 0 auto !important;
+  display: block !important;
+}
+.spinner-inner {
+  transform: scale(0.3) !important;
+}
+.spinner .rect {
+  background-color: rgba(47, 128, 194, 0.7) !important;
+}
+
+.jobseeker-login,
+.employer-login,
+.emp-reset,
+.jobseeker-reset,
+.employer-register,
+.jobseeker-register {
+  margin: 8em auto !important;
+}
+.delete-my-profile {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  font-size: 16px;
+  display: block;
+  padding: 14px 16px;
+}
+.jobseeker-profile-info {
+  height: 30vh;
+  background-color: #2f80c2;
+}
+.addrole .modal {
+  width: 75%;
+}
+@media only screen and (min-width: 1000px) {
+  .addrole .modal {
+    width: 65%;
+  }
+}
+@media only screen and (max-width: 420px) {
+  .more-option {
+    display: none;
+  }
+  .hero-img {
+    height: 80vh;
+  }
+  nav .brand-logo {
+    margin-left: 0;
+  }
+  #employer .img,
+  #jobseeker .img {
+    height: 250px;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .sidenav {
+    width: 250px !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .searchbar {
+    top: 24vh;
+  }
+}
+/* Make circles that indicate the steps of the form: */
+.step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbbbbb;
+  border: none;
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+.step.active {
+  opacity: 1;
+}
+.step.finish {
+  background-color: #4caf50;
+}
+input.invalid,
+.pitch-invalid {
+  background-color: #ffdddd;
+}
+select {
+  display: block !important;
+}
+/* Mark the steps that are finished and valid: */
+
+.searchbar input::placeholder {
+  color: black;
+}
+
+.employer-dash .btn {
+  width: 60%;
+}
+.employer-job .btn {
+  width: 25%;
+}
+.job-seeker-showjob .btn {
+  width: 25%;
+}
+.jobseeker-jobs * {
+  font-size: 1em !important;
+}
+.jobseeker-dash{
+  height: 30vh;
+}
+.employer-job * {
+  font-size: 1em !important;
+}
+
+.feat {
+  margin-top: 6em;
+  display: none;
+}
+.feat .nav {
+  float: right;
+}
+.createJob .tab {
+  display: none;
+}
+.createJob {
+  margin-top: 8em;
+}
+.mce-notification.mce-has-close {
+  display: none;
+}
